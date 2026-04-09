@@ -1,4 +1,4 @@
 // Package portchecker provides core functionality.
 //
-// Updated in iteration 6.
+// Updated in iteration 8.
 package main
